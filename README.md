@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcreate-a-lottery-game-application
+<br>
+Create a lottery game application. Generate four random numbers, each between 0 and 9 (inclusive). Allow the user to guess four numbers. Compare each of the user’s guesses to the four random numbers and display a message that includes the user’s guess, the randomly determined four-digit number, and the amount of points the user has won as follows:
